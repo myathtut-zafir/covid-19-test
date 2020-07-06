@@ -1,0 +1,29 @@
+{
+  "name": "covid19",
+  "version": "1.0.0",
+  "description": "My supreme Nuxt.js project",
+  "author": "myathtut-zafir",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0",
+    "bootstrap-vue": "^2.0.0",
+    "bootstrap": "^4.1.3",
+    "axios": "^0.16.2",
+    "body-parser": "^1.17.2",
+    "cross-env": "^5.0.5",
+    "express": "^4.15.3",
+    "express-session": "^1.15.3",
+    "vue": "latest",
+    "vuex": "latest"
+  },
+  "devDependencies": {
+    "node-sass": "^4.14.0",
+    "sass-loader": "^8.0.2"
+  }
+}
